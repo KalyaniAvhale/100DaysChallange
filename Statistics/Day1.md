@@ -42,10 +42,7 @@
   <td>S,σ<sub>x̅</sub></td>
 </tr>
 <h3>Formula Difference</h3>
-![image](https://user-images.githubusercontent.com/47108982/115188132-19cffe00-a102-11eb-9ed0-a75ad2e8fc4d.png)
-
-
-
+![DD](https://user-images.githubusercontent.com/47108982/115188132-19cffe00-a102-11eb-9ed0-a75ad2e8fc4d.png)
 
 <h5>Resources :</h5>
 <ul><li>
