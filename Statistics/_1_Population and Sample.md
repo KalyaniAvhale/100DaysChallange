@@ -41,9 +41,9 @@
   <td>σ "sigma"</td>
   <td>S,σ<sub>x̅</sub></td>
 </tr>
-<h3>Formula Difference</h3>
-![FormulaDiff](https://user-images.githubusercontent.com/47108982/115190485-b6e06600-a105-11eb-993a-9698727a6ecd.png)
-
+  
+Formula Difference
+  ![image](https://user-images.githubusercontent.com/47108982/145711312-c562c8af-0ad5-43f2-9768-3ad41e11a0ed.png)
 <h5>Resources :</h5>
 <ul><li>
   https://www.youtube.com/watch?v=8X2xfwBP4uo</li></ul>
