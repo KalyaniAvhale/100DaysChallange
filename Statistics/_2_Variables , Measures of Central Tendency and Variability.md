@@ -41,7 +41,8 @@ Formula for Standard Deviation ![image](https://user-images.githubusercontent.co
 
 - Positive covariance: Indicates that two variables tend to move in the same direction.<br>
 - Negative covariance: Reveals that two variables tend to move in inverse directions.<br>
-	Covariance Formula (Population)![image](https://user-images.githubusercontent.com/47108982/145703083-d293ef37-c8bb-43d7-9f9f-6e2f239a4991.png)
+	Covariance Formula (Population)
+	![image](https://user-images.githubusercontent.com/47108982/145703083-d293ef37-c8bb-43d7-9f9f-6e2f239a4991.png)
 	
 	![image](https://user-images.githubusercontent.com/47108982/145703758-c1563897-9e61-4d56-b451-396f0a846385.png)
 
@@ -58,6 +59,57 @@ Covariance and correlation are related to each other, in the sense that covarian
  
 ![image](https://user-images.githubusercontent.com/47108982/145703864-91edd1f6-a368-4a01-8cf1-2cd4c02c42d9.png)
 
-  </body>  
-</html>
-  
+<br><br>
+<ul><li><h3>Inter Quartile Range - IQR</h3></li></ul>
+the interquartile range tells you the spread of the middle half of your distribution.
+Quartiles segment any distribution that’s ordered from low to high into four equal parts. The interquartile range (IQR) contains the second and third quartiles, or the middle half of your data set.Whereas the range gives you the spread of the whole data set, the interquartile range gives you the range of the middle half of a data set.<br>
+
+![image](https://user-images.githubusercontent.com/47108982/145712512-5b20a8d5-27be-46f5-9e1d-2186a1a47e91.png)
+
+
+
+-  **Calculate the interquartile range** : 
+Interquartile range formula :
+
+![image](https://user-images.githubusercontent.com/47108982/145712538-bde81072-3e85-4fb2-bde2-da3464ccc685.png)
+
+<br>	
+IQR = interquartile range<br>
+Q3 = 3rd quartile or 75th percentile<br>
+Q1 = 1st quartile or 25th percentile<br>
+
+Q1 is the value below which 25 percent of the distribution lies, while Q3 is the value below which 75 percent of the distribution lies.
+You can think of Q1 as the median of the first half and Q3 as the median of the second half of the distribution.<br><br>
+
+- **When is the interquartile range useful?** : <br>
+The interquartile range is an especially useful measure of variability for skewed distributions.
+For these distributions, the median is the best measure of central tendency because it’s the value exactly in the middle when all values are ordered from low to high.
+Along with the median, the IQR can give you an overview of where most of your values lie and how clustered they are.
+The IQR is also useful for datasets with outliers. Because it’s based on the middle half of the distribution, it’s less influenced by extreme values.<br><br><br>
+
+
+<h2> Questions : </h2>
+
+1. **What are the 4 main measures of variability?**
+<br>Variability is most commonly measured with the following descriptive statistics:
+	- Range: the difference between the highest and lowest values
+	- Interquartile range: the range of the middle half of a distribution
+	- Standard deviation: average distance from the mean
+	- Variance: average of squared distances from the mean
+
+
+<br>
+
+2. **What’s the difference between the range and interquartile range?**
+<br>While the range gives you the spread of the whole data set, the interquartile range gives you the spread of the middle half of a data set.
+<br>
+
+
+3. **When should I use the interquartile range?** <br>
+The interquartile range is the best measure of variability for skewed distributions or data sets with outliers. Because it’s based on values that come from the middle half of the distribution, it’s unlikely to be influenced by outliers.
+<br>
+
+4. **What are the two main methods for calculating interquartile range?** <br>
+The two most common methods for calculating interquartile range are the exclusive and inclusive methods.
+The exclusive method excludes the median when identifying Q1 and Q3, while the inclusive method includes the median as a value in the data set in identifying the quartiles.
+For each of these methods, you’ll need different procedures for finding the median, Q1 and Q3 depending on whether your sample size is even- or odd-numbered. The exclusive method works best for even-numbered sample sizes, while the inclusive method is often used with odd-numbered sample sizes.<br>
