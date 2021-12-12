@@ -28,3 +28,6 @@ inferential statistics help you come to conclusions and make predictions based o
 
 > **What’s the difference between descriptive and inferential statistics?**
 <br> Descriptive statistics summarize the characteristics of a data set. Inferential statistics allow you to test a hypothesis or assess whether your data is generalizable to the broader population.
+
+
+[Reference](https://www.scribbr.com/category/statistics/)
